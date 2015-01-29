@@ -1,14 +1,34 @@
-# Site settings
-title: Vivien's Blog
-email: vivien.leonard@gmail.com
-description: Another software engineer.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vivienleonard.github.io" # the base hostname & protocol for your site
-twitter_username: vivienleonard
-github_username:  vivienleonard
+title: vivien's blog
+name: vivien leonard
+author: vivien leonard
+description: just another blog
+twitter: http://www.twitter.com/vivienleonard
+xing: https://www.xing.com/profile/Vivien_LEONARD
+viadeo: http://ch.viadeo.com/fr/profile/vivien.leonard
+linkedin: https://ch.linkedin.com/pub/vivien-leonard/4/8a0/b87
+email: vivien.leonard[at]gmail.com
+location: 42°2'16"N   70°12'47"W
+disqus: vivien_leonard
 
-# Build settings
-markdown: kramdown
+##Make sure to edit the above fields, especially for disqus.
+port: 4445
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
 paginate: 2
 paginate_path: "blog/page:num/"
-port: "4444"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
