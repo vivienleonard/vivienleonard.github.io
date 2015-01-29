@@ -374,6 +374,14 @@ pre
   padding-top:15px
 }
 
+.article-title a
+{
+  font-size:35px;
+  font-weight:700;
+  color:#d90006;
+  padding-top:15px
+}
+
 .meta
 {
   text-shadow:1px 1px #fff;

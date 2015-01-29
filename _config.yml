@@ -7,7 +7,6 @@ xing: https://www.xing.com/profile/Vivien_LEONARD
 viadeo: http://ch.viadeo.com/fr/profile/vivien.leonard
 linkedin: https://ch.linkedin.com/pub/vivien-leonard/4/8a0/b87
 email: vivien.leonard[at]gmail.com
-location: 42°2'16"N   70°12'47"W
 disqus: vivien_leonard
 
 ##Make sure to edit the above fields, especially for disqus.
@@ -18,7 +17,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 
-paginate: 2
+paginate: 10
 paginate_path: "blog/page:num/"
 
 defaults:
