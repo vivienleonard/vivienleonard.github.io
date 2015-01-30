@@ -368,18 +368,22 @@ pre
 
 .article-title
 {
-  font-size:35px;
+  font-size:20px;
   font-weight:700;
-  color:#d90006;
+  color:#000;
   padding-top:15px
 }
 
 .article-title a
 {
-  font-size:35px;
+  font-size:20px;
   font-weight:700;
-  color:#d90006;
+  color:#000;
   padding-top:15px
+}
+
+.article-title a:hover {
+    color: #d90006;
 }
 
 .meta
