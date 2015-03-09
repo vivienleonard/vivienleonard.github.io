@@ -1,5 +1,5 @@
 ---
-title: Why you should use the lean canvas if you start a new product?
+title: why you should use the lean canvas if you start a new product?
 date: 2015-03-01
 categories: process
 ---
