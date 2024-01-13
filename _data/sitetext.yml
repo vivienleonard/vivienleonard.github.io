@@ -53,23 +53,23 @@ en: &DEFAULT_EN
     list:
       - title: "nrj mobile"
         url: https://www.nrjmobile.fr/fr/
-        logo: assets/img/clients/logo-credit-mutuel.jpg
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/logo-nrj.png
+      - title: "hager"
+        url: https://hager.com/fr-ch
+        logo: assets/img/clients/Hager_Group_logo.svg
+      - title: "neovici"
+        url: https://www.neovici.se/
+        logo: assets/img/clients/neovici_logo.jpeg
+      - title: "abb"
+        url: https://global.abb/group/en
+        logo: assets/img/clients/abb-logo.png
+      - title: "bls"
+        url: https://www.bls.ch/de
+        logo: assets/img/clients/BLS_AG_logo.png
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
