@@ -17,10 +17,6 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
     - title: "Theme Source"
@@ -44,10 +40,6 @@ es: &DEFAULT_ES
       section: portafolio
     - title: "Sobre Nosotros"
       section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
     - title: "Contáctenos"
       section: contacto
     - title: "Fuente de la plantilla"
