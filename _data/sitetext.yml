@@ -23,16 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "Scrum & SAFe"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-user-friends #find more at https://fontawesome.com/icons
       - title: "Continous Integration & Development Process"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fas fa-code-fork
       - title: "Consulting"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-code
+        icon: fa-solid fa-hand-holding-hand
       - title: "Software Development"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa-solid fa-code
 
   portfolio:
     title: "Portfolio"
