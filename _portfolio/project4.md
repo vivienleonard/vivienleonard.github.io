@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: Core Framework of XMC20
+subtitle: core framework of a platform supporting packet-based services and native TDM
+image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Core Framework of XMC20
+  subtitle: core framework of a platform supporting packet-based services and native TDM
+  thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+More information here:
+https://www.hitachienergy.com/products-and-solutions/communication-networks/wired-networks/xmc20-multiservice-communication-portfolios
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
+- Date: January 2017
+- Client: ABB (then bought by Hitachi)
+- Technologies: C++, Python
+- Role: Scrum Master & Project Lead

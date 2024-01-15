@@ -11,39 +11,45 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Software Freelancing @Muri Bei Bern, Switzerland
+    title: Freelance Software Engineer in Muri Bei Bern, Switzerland
     text: ""
     button: Services
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
-      - title: "Scrum & SAFe"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-user-friends #find more at https://fontawesome.com/icons
-      - title: "Continous Integration & Development Process"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-code-fork
-      - title: "Consulting"
-        desc: "Your description here, full **Markdown** support"
-        icon: fa-solid fa-hand-holding-hand
-      - title: "Software Development"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Software Development & Architecture"
+        desc: ""
         icon: fa-solid fa-code
+      - title: "Scrum & SAFe"
+        desc: ""
+        icon: fas fa-user-friends #find more at https://fontawesome.com/icons
+      - title: "Continous Integration & Delivery"
+        desc: ""
+        icon: fas fa-code-fork
+      - title: "Development Process & Worklfow"
+        desc: ""
+        icon: fa-solid fa-hand-holding-hand
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: ""
+    body: "<p>My name is Vivien LEONARD. I’m a software engineer & freelance living in Muri Bei Bern -- with roots in Maths & Telecommunications. I'm passionate about sport, nature, and technology.</p>
+           
+           <p>My work currently consists of a full time engineering role at BLS & managing ongoing freelance clients and side projects. I find this balancing act to be resourceful in order to continue to gain experience and evolve.</p>
+           
+           <p>I have 15 years of experience, having work for startups to large companies, and from embedded software to web development. I speak French, English, German and Spanish.</p>
+
+           <p>Whether you're a business owner looking to get started on an established company, write me a message and let's work together.</p>"
     section: about
 
   clients:
@@ -85,6 +91,8 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
+      - url: https://www.linkedin.com/in/vivien-leonard-b878a04
+        icon: "fab fa-linkedin"
       - url: https://www.instagram.com/ultravivien
         icon: "fab fa-instagram"
 en-US:
@@ -122,7 +130,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portafolio
     closebutton: "Cerrar Proyecto"
 

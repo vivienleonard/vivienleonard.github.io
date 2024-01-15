@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Quantum-safe encryption card
+subtitle: Security card for mission-critical systems
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Quantum-safe encryption card
+  subtitle: Security card for mission-critical systems
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+More information here:
+https://library.e.abb.com/public/443b5ed1fb59414586b62318e6f77e8b/XMC20-quantum-cybersecurity-4CAE000841.pdf?x-sign=OIrYFc8fh0r6KSyEXmrF6Tz4glDGBv/rypLKmk6qzWlw+4n4u0BcP/qyj8O86bvV
 
 {:.list-inline}
 - Date: January 2017
-- Client: Finish
-- Category: Identity
+- Client: ABB
+- Technologies: C++, Python
+- Role: Product Owner
 
