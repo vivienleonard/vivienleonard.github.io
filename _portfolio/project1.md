@@ -1,13 +1,13 @@
 ---
 title: Fleet Management System eXtended
 subtitle: monitor, manage and update the IT systems of a train fleet
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/01.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Fleet Management System eXtended
   subtitle: monitor, manage and update the IT systems of a train fleet
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/01.jpg
 ---
 
 {:.list-inline}
