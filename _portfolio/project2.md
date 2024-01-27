@@ -10,8 +10,10 @@ caption:
   thumbnail: assets/img/portfolio/02.jpg
 ---
 
+Implementation of the MVP and lead of the solution architecture.
+
 {:.list-inline}
-- Date: January 2017
+- Date: 2021
 - Client: BLS
 - Technologies: Spring Boot, Java, Angular, Openshift, Kibana
 - Role: Solution Architect

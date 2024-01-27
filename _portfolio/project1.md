@@ -11,7 +11,7 @@ caption:
 ---
 
 {:.list-inline}
-- Date: November 2020 - Present
+- Date: 2019 - Present
 - Client: BLS
 - Technologies: Spring Boot, Java, Angular, Openshift, Kibana
 - Role: Lead Developer, Scrum Master
