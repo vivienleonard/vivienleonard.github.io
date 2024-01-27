@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/02.jpg
 ---
 
-Implementation of the MVP and lead of the solution architecture.
+Implementation of the MVP and leadership in solution architecture.
 
 {:.list-inline}
 - Date: 2021

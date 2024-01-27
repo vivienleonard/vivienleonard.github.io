@@ -43,13 +43,13 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: ""
-    body: "<p>My name is Vivien LEONARD. I’m a software engineer & freelance living in Muri Bei Bern -- with roots in Maths & Telecommunications. I'm passionate about sport, nature, and technology.</p>
+    body: "<p>My name is Vivien Leonard. I'm a software engineer and freelancer living in Muri bei Bern, with a background in Mathematics and Telecommunications. I'm passionate about sports, outdoor activities, and technology.</p>
            
-           <p>My work currently consists of a full time engineering role at BLS & managing ongoing freelance clients and side projects. I find this balancing act to be resourceful in order to continue to gain experience and evolve.</p>
+           <p>Currently, I work as a software engineer at BLS while also managing freelance clients and side projects. I find this balancing act to be resourceful for gaining experience and evolving professionally.</p>
            
-           <p>I have 15 years of experience, having work for startups to large companies, and from embedded software to web development. I speak French, English, German and Spanish.</p>
+           <p>With 15 years of experience, I've worked for startups and large companies, ranging from embedded software to web development. I am fluent in French, English, German, and Spanish.</p>
 
-           <p>Whether you're a business owner looking to get started on an established company, write me a message and let's work together.</p>"
+           <p>If you're a business owner looking to start or expand your company, feel free to send me a message, and let's work together.</p>"
     section: about
 
   clients:

@@ -9,8 +9,8 @@ caption:
   subtitle: jalousie controls system and home meter dashboard
   thumbnail: assets/img/portfolio/06.jpg
 ---
-Lead of embedded software projects in home automation\
-Projects involving an offshore team in China.
+
+Leading embedded software projects in home automation, including collaboration with an offshore team in China.
 
 {:.list-inline}
 - Date: 2008-2010
