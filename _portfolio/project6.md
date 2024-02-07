@@ -1,19 +1,20 @@
 ---
-title: Home Automation
-subtitle: jalousie controls and home meter
+title: Cosmoz
+subtitle: platform to automatically extract, validate, and approve invoices for store chains
 image: assets/img/portfolio/06.jpg
 alt: 
 
 caption:
-  title: Home Automation
-  subtitle: jalousie controls system and home meter dashboard
+  title: Cosmoz
+  subtitle: platform to automatically extract, validate, and approve invoices for store chains
   thumbnail: assets/img/portfolio/06.jpg
 ---
-
-Leading embedded software projects in home automation, including collaboration with an offshore team in China.
+Full redesign and implementation of an invoice management software.\
+I also led workshops for the team in Sweden on Scrum, XP, and CMMI.\
+Read the [product details](https://www.neovici.se/platform){:target="_blank"}.
 
 {:.list-inline}
-- Date: 2008-2010
-- Client: Hager
-- Technologies: C
+- Date: 2010-2013
+- Client: Neovici
+- Technologies: C# .Net, Azure
 - Role: Software Engineer

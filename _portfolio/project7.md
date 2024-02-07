@@ -1,20 +1,19 @@
 ---
-title: Anti-Fraud System
-subtitle: anti-fraud system for the mobile operator Nrj Mobile
+title: Home Automation
+subtitle: jalousie controls and home meter
 image: assets/img/portfolio/07.jpg
 alt: 
 
 caption:
-  title: Anti-Fraud System
-  subtitle: anti-fraud system for the mobile operator Nrj Mobile
+  title: Home Automation
+  subtitle: jalousie controls system and home meter dashboard
   thumbnail: assets/img/portfolio/07.jpg
 ---
 
-Responsible for the conception of an anti-fraud system for the mobile phone operator C Le Mobile, resulting in a gain of 30 to 70% depending on the contracts (prepaid/postpaid).
+Leading embedded software projects in home automation, including collaboration with an offshore team in China.
 
 {:.list-inline}
-- Date: 2007 - 2009
-- Client: Nrj Mobile / Crédit Mutuel
-- Technologies: C# .Net, Maths
+- Date: 2008-2010
+- Client: Hager
+- Technologies: C
 - Role: Software Engineer
-

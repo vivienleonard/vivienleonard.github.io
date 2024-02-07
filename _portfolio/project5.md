@@ -1,20 +1,25 @@
 ---
-title: Cosmoz
-subtitle: platform to automatically extract, validate, and approve invoices for store chains
+title: All-in-one solution for retailers
+subtitle: startup founding of a all-in-one-solution for retailers
 image: assets/img/portfolio/05.jpg
 alt: 
 
 caption:
-  title: Cosmoz
-  subtitle: platform to automatically extract, validate, and approve invoices for store chains
+  title: All-in-one solution for retailers
+  subtitle: startup founding of a all-in-one-solution for retailers
   thumbnail: assets/img/portfolio/05.jpg
 ---
-Full redesign and implementation of an invoice management software.\
-I also led workshops for the team in Sweden on Scrum, XP, and CMMI.\
-Read the [product details](https://www.neovici.se/platform){:target="_blank"}.
+
+Founder of 4Shop, solution all-in-one for retailers.\
+Market analysis\
+Recruitment\
+Roadmap\
+Prototyping\
+Business model\
+Participation in a startup contest organized by Orange Business
 
 {:.list-inline}
-- Date: 2010-2013
-- Client: Neovici
-- Technologies: C# .Net, Azure
-- Role: Software Engineer
+- Date: 2012 - 2013
+- Technologies: Ruby on Rails
+- Role: CEO-Founder
+
